@@ -38,3 +38,4 @@ Troubleshooting:
 - If you still cannot run the setup.ps1 script, open it and copy all the commands step by step in your terminal and execute each step
 
 MB:modified for testing git
+update for B2
