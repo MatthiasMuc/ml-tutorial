@@ -46,7 +46,7 @@ X["race"].replace(
     inplace=True,
 )
 # sex
-X["sex"] = X["sex"].replace({" Male": 0, " Female": 1}, inplace=True)
+X["sex"].replace({" Male": 0, " Female": 1}, inplace=True)
 
 print("First 5 lines, strings replaced:\n", X.head())
 
